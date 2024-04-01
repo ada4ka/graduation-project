@@ -121,6 +121,6 @@ display: flex;
 .block-title{
     width: 210px;
     height: 120px;
-    column-gap: ;
+    column-gap: 20px;
     justify-content: space-between;
 }
