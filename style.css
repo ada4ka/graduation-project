@@ -1,0 +1,126 @@
+
+
+
+
+.container{
+    padding-left: 340px;
+    padding-right: 300px;
+}
+.link-nav{
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: black ; 
+}
+.baground-header{
+    
+}
+.center-text{
+font-weight: 900;
+font-size: 120px;
+line-height: 108%;
+text-transform: uppercase;
+color: white;
+margin-left: 200px;
+}
+.span-header{
+    border-radius: 211px;
+padding: 20px;
+width: 271px;
+height: 82px;
+color: red;
+}
+.header-wrapper{
+    background: url(/images/header-baground.png) no-repeat center/cover ;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-explore{
+    font-size: 23px;
+    color: white;
+    font-weight: 900;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    
+}
+.nav-links{
+    display: flex;
+    align-items: center;
+    column-gap: 62px;
+    justify-content: space-between;
+}
+
+.link-nav{
+    font-size: 18px;
+    color: white;
+    font-weight: 700;
+    text-transform:uppercase ;
+}
+.nav-left{
+    display: flex;
+    align-items: center;
+}
+.nav-search{
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+}
+.header-button{
+    background: red;
+    padding: 26px 64px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 40px;
+    border: 1px solid red ;
+}
+.header-bottom{
+    margin-left: 200px;
+}
+.white-left-line{
+width: 2px;
+height: 296px;
+color: white;
+align-items: center;
+}
+.red-left-line{
+    width: 4px;
+height: 100px;
+color: red;
+align-items: center;
+justify-content: space-around;
+}
+.block-shadow{
+border: 1px solid #000;
+width: 1225px;
+height: 210px;
+background: #000;
+transform: rotate(-180deg);
+opacity: 0.6;
+}
+.here{
+width: 210px;
+height: 120px;
+color: white;
+align-items: center;
+display: flex;
+}
+.text-header{
+font-weight: 400;
+font-size: 18px;
+line-height: 156%;
+letter-spacing: 0.03em;
+color: #939393;
+align-items: center;
+display: flex;
+}
+.block-title{
+    width: 210px;
+    height: 120px;
+    column-gap: ;
+    justify-content: space-between;
+}
